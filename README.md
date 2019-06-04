@@ -1,3 +1,3 @@
 # hello-world
-This is my practice repository 
-This is a commit test
+This is my practice repository. 
+This is a test of commitments... 
