@@ -4,4 +4,4 @@ This is my _practice_ repository.
 
 ![Image](file:///Users/sonder/Desktop/IMG_2019.jpg)
 
-<img src ="../sonder/Desktop/IMG_2019.jpg">
+<img src ="..file:///Users/sonder/Desktop/IMG_2019.jpg">
